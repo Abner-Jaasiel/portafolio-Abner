@@ -8,7 +8,7 @@ const projectsData = [
   {
     id: 1,
     title: "AIRemove",
-    description: "Maintenance software",
+    description: "Maintenance software (C# .NET)",
     image: "/images/projects/1.png",
     tag: ["All", "Windows"],
     gitUrl: "/",
@@ -17,7 +17,7 @@ const projectsData = [
   {
     id: 2,
     title: "DogeBrowser",
-    description: "Internet browser",
+    description: "Internet browser (C# .NET)",
     image: "/images/projects/2.png",
     tag: ["All", "Windows"],
     gitUrl: "/",
@@ -26,7 +26,7 @@ const projectsData = [
   {
     id: 3,
     title: "LostFiles",
-    description: "Deleted Files Recovery",
+    description: "Deleted Files Recovery (C# .NET)",
     image: "/images/projects/3.png",
     tag: ["All", "Windows"],
     gitUrl: "/",
@@ -35,7 +35,7 @@ const projectsData = [
   {
     id: 4,
     title: "PictureFace",
-    description: "Face recognition software",
+    description: "Face recognition software (C# .NET)",
     image: "/images/projects/4.png",
     tag: ["All", "Windows"],
     gitUrl: "/",
@@ -44,7 +44,7 @@ const projectsData = [
   {
     id: 5,
     title: "Ancikle website",
-    description: "Ancikle.com",
+    description: "Ancikle.com (HTML, CSS, Javascript)",
     image: "/images/projects/5.png",
     tag: ["All", "Web"],
     gitUrl: "/",
@@ -53,7 +53,7 @@ const projectsData = [
   {
     id: 6,
     title: "AIRemove website",
-    description: "Airemove.ancikle.com",
+    description: "Airemove.ancikle.com (HTML, Bootstrap, Javascript)",
     image: "/images/projects/6.png",
     tag: ["All", "Web"],
     gitUrl: "/",
@@ -62,7 +62,7 @@ const projectsData = [
   {
     id: 7,
     title: "LostFiles website",
-    description: "lostfiles.ancikle.com (Estimated price $59 - SEO, src) - dev",
+    description: "lostfiles.ancikle.com (HTML, Bootstrap, Javascript) - dev",
     image: "/images/projects/7.png",
     tag: ["All", "Web"],
     gitUrl: "/",
@@ -72,7 +72,7 @@ const projectsData = [
   {
     id: 8,
     title: "Koffeets",
-    description: "Koffeets app",
+    description: "Koffeets app (Dart, Flutter)",
     image: "/images/projects/8.png",
     tag: ["All", "Mobile"],
     gitUrl: "/",
@@ -81,7 +81,7 @@ const projectsData = [
   {
     id: 9,
     title: "HackMode",
-    description: "HackMode app",
+    description: "HackMode app (Lua) - deprecated",
     image: "/images/projects/9.png",
     tag: ["All", "Windows"],
     gitUrl: "/",
@@ -90,7 +90,7 @@ const projectsData = [
   {
     id: 10,
     title: "CleanNeutron",
-    description: "Maintenance software",
+    description: "Maintenance software (Lua) - deprecated",
     image: "/images/projects/10.png",
     tag: ["All", "Windows"],
     gitUrl: "/",
@@ -101,7 +101,7 @@ const projectsData = [
   {
     id: 11,
     title: "Help education website",
-    description: "Ancikle.com/examples/helpeducation-web - deprecated",
+    description: "Ancikle.com/examples/helpeducation-web (HTML, CSS) - deprecated",
     image: "/images/projects/11.png",
     tag: ["All", "Web"],
     gitUrl: "/",
@@ -110,7 +110,7 @@ const projectsData = [
   {
     id: 12,
     title: "Real estate website",
-    description: "Ancikle.com/examples/realestate-web - dev",
+    description: "Ancikle.com/examples/realestate-web (HTML, CSS, Javascript) - dev",
     image: "/images/projects/12.png",
     tag: ["All", "Web"],
     gitUrl: "/",
