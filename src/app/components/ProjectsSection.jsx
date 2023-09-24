@@ -14,23 +14,24 @@ const projectsData = [
     gitUrl: "/",
     previewUrl: "https://ancikle.com/Projects/AIRemove/",
   },
+
   {
     id: 2,
-    title: "DogeBrowser",
-    description: "Internet browser (C# .NET)",
-    image: "/images/projects/2.png",
-    tag: ["All", "Windows"],
-    gitUrl: "/",
-    previewUrl: "https://ancikle.com/Projects/dogebrowser/",
-  },
-  {
-    id: 3,
     title: "LostFiles",
     description: "Deleted Files Recovery (C# .NET)",
     image: "/images/projects/3.png",
     tag: ["All", "Windows"],
     gitUrl: "/",
     previewUrl: "https://ancikle.com/Projects/lostfiles/",
+  },
+  {
+    id: 3,
+    title: "Koffeets",
+    description: "Koffeets app (Dart, Flutter)",
+    image: "/images/projects/8.png",
+    tag: ["All", "Mobile"],
+    gitUrl: "/",
+    previewUrl: "https://ancikle.com/Projects/koffeets/",
   },
   {
     id: 4,
@@ -68,15 +69,15 @@ const projectsData = [
     gitUrl: "/",
     previewUrl: "https://lostfiles.ancikle.com/",
   },
-  
+
   {
     id: 8,
-    title: "Koffeets",
-    description: "Koffeets app (Dart, Flutter)",
-    image: "/images/projects/8.png",
-    tag: ["All", "Mobile"],
+    title: "DogeBrowser",
+    description: "Internet browser (C# .NET)",
+    image: "/images/projects/2.png",
+    tag: ["All", "Windows"],
     gitUrl: "/",
-    previewUrl: "https://ancikle.com/Projects/koffeets/",
+    previewUrl: "https://ancikle.com/Projects/dogebrowser/",
   },
   {
     id: 9,
@@ -139,7 +140,7 @@ const ProjectsSection = () => {
   return (
     <section id="projects">
       <h2 className="text-center text-4xl font-bold text-white mt-4 mb-8 md:mb-12">
-      Proyectos
+        Proyectos
       </h2>
       <div className="text-white flex flex-row lg:justify-center lg:items-center  py-6 overflow-y-auto max-h-[600px] m">
         <ProjectTag
@@ -152,7 +153,7 @@ const ProjectsSection = () => {
           name="Web"
           isSelected={tag === "Web"}
         />
-         <ProjectTag
+        <ProjectTag
           onClick={handleTagChange}
           name="Windows"
           isSelected={tag === "Windows"}
