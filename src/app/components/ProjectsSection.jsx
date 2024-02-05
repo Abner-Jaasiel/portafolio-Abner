@@ -40,7 +40,7 @@ const projectsData = [
     image: "/images/projects/13.png",
     tag: ["All", "Mobile"],
     gitUrl: "/",
-    previewUrl: "https://ancikle.com/Projects/koffeets/",
+    previewUrl: "https://ancikle.com/Projects/notessmart/",
   },
   {
     id: 5,
