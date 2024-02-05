@@ -26,15 +26,6 @@ const projectsData = [
   },
   {
     id: 3,
-    title: "Koffeets",
-    description: "Koffeets app (Dart, Flutter)",
-    image: "/images/projects/8.png",
-    tag: ["All", "Mobile"],
-    gitUrl: "/",
-    previewUrl: "https://ancikle.com/Projects/koffeets/",
-  },
-  {
-    id: 4,
     title: "NotesSmart",
     description: "NotesSmart app (Dart, Flutter)",
     image: "/images/projects/13.png",
@@ -42,6 +33,16 @@ const projectsData = [
     gitUrl: "/",
     previewUrl: "https://ancikle.com/Projects/notessmart/",
   },
+  {
+    id: 4,
+    title: "Koffeets",
+    description: "Koffeets app (Dart, Flutter)",
+    image: "/images/projects/8.png",
+    tag: ["All", "Mobile"],
+    gitUrl: "/",
+    previewUrl: "https://ancikle.com/Projects/koffeets/",
+  },
+
   {
     id: 5,
     title: "PictureFace",
