@@ -36,7 +36,7 @@ const EmailSection = () => {
         
       </div>
       <div className="z-10">
-        <form className="flex flex-col" action="https://formsubmit.co/abner@ancikle.com" method="POST">
+        <form className="flex flex-col" action="https://formsubmit.co/abnerjaasiel0@gmail.com" method="POST">
       
           <div className="mb-6">
             <label
@@ -73,7 +73,7 @@ const EmailSection = () => {
               htmlFor="email"
               className="text-white block mb-2 text-sm font-medium mb-7"
             >
-              Mi email: abner@ancikle.com
+              Mi email: abnerjaasiel0@gmail.com
             </label>
             
           <button

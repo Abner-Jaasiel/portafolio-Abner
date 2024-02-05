@@ -11,7 +11,7 @@ const TAB_DATA = [
       <ul className="list-disc pl-2">
          <li>Abner Jaasiel Irias Rodriguez</li>
          <li>Programador</li>
-         <li>abner@ancikle.com - abnerjaasiel0@gmail.com</li>
+         <li>abnerjaasiel0@gmail.com</li>
          <li>Estoy viviendo en Honduras</li>
          <li>+504 9342-1492</li>
          <li>Disponible para oportunidades laborales</li>

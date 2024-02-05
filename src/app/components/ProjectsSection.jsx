@@ -12,7 +12,7 @@ const projectsData = [
     image: "/images/projects/1.png",
     tag: ["All", "Windows"],
     gitUrl: "/",
-    previewUrl: "https://ancikle.com/Projects/AIRemove/",
+    previewUrl: "https://ancikle.com/Projects/airemove",
   },
 
   {
@@ -35,6 +35,15 @@ const projectsData = [
   },
   {
     id: 4,
+    title: "NotesSmart",
+    description: "NotesSmart app (Dart, Flutter)",
+    image: "/images/projects/13.png",
+    tag: ["All", "Mobile"],
+    gitUrl: "/",
+    previewUrl: "https://ancikle.com/Projects/koffeets/",
+  },
+  {
+    id: 5,
     title: "PictureFace",
     description: "Face recognition software (C# .NET)",
     image: "/images/projects/4.png",
@@ -43,7 +52,7 @@ const projectsData = [
     previewUrl: "https://ancikle.com/Projects/pictureface/",
   },
   {
-    id: 5,
+    id: 6,
     title: "Ancikle website",
     description: "Ancikle.com (HTML, CSS, Javascript)",
     image: "/images/projects/5.png",
@@ -52,7 +61,7 @@ const projectsData = [
     previewUrl: "https://ancikle.com/",
   },
   {
-    id: 6,
+    id: 7,
     title: "AIRemove website",
     description: "Airemove.ancikle.com (HTML, Bootstrap, Javascript)",
     image: "/images/projects/6.png",
@@ -61,7 +70,7 @@ const projectsData = [
     previewUrl: "https://airemove.ancikle.com/",
   },
   {
-    id: 7,
+    id: 8,
     title: "LostFiles website",
     description: "lostfiles.ancikle.com (HTML, Bootstrap, Javascript) - dev",
     image: "/images/projects/7.png",
@@ -71,7 +80,7 @@ const projectsData = [
   },
 
   {
-    id: 8,
+    id: 9,
     title: "DogeBrowser",
     description: "Internet browser (C# .NET)",
     image: "/images/projects/2.png",
@@ -80,7 +89,7 @@ const projectsData = [
     previewUrl: "https://ancikle.com/Projects/dogebrowser/",
   },
   {
-    id: 9,
+    id: 10,
     title: "HackMode",
     description: "HackMode app (Lua) - deprecated",
     image: "/images/projects/9.png",
@@ -89,7 +98,7 @@ const projectsData = [
     previewUrl: "/",
   },
   {
-    id: 10,
+    id: 11,
     title: "CleanNeutron",
     description: "Maintenance software (Lua) - deprecated",
     image: "/images/projects/10.png",
@@ -100,7 +109,7 @@ const projectsData = [
 
 
   {
-    id: 11,
+    id: 12,
     title: "Help education website",
     description: "Ancikle.com/examples/helpeducation-web (HTML, CSS) - deprecated",
     image: "/images/projects/11.png",
@@ -109,7 +118,7 @@ const projectsData = [
     previewUrl: "https://ancikle.com/examples/helpeducation-web/",
   },
   {
-    id: 12,
+    id: 13,
     title: "Real estate website",
     description: "Ancikle.com/examples/realestate-web (HTML, CSS, Javascript) - dev",
     image: "/images/projects/12.png",
