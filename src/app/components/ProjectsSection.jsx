@@ -22,7 +22,7 @@ const projectsData = [
     image: "/images/projects/3.png",
     tag: ["All", "Windows"],
     gitUrl: "/",
-    previewUrl: "https://ancikle.com/Projects/lostfiles/",
+    previewUrl: "https://ancikle.com/Projects/lostfiles",
   },
   {
     id: 3,
@@ -68,7 +68,7 @@ const projectsData = [
     image: "/images/projects/6.png",
     tag: ["All", "Web"],
     gitUrl: "/",
-    previewUrl: "https://airemove.ancikle.com/",
+    previewUrl: "https://ancikle.com/examples/airemove_web",
   },
   {
     id: 8,
@@ -77,7 +77,7 @@ const projectsData = [
     image: "/images/projects/7.png",
     tag: ["All", "Web"],
     gitUrl: "/",
-    previewUrl: "https://lostfiles.ancikle.com/",
+    previewUrl: "https://ancikle.com/examples/lostfile_web",
   },
 
   {
